@@ -1,4 +1,4 @@
-# whoami
+# What's my ip?
 
 I felt like running my own `ifconfig.me` style webpage so I could have
 automated scripts that want to know their ip behind a NAT do so... without
